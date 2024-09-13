@@ -1,3 +1,4 @@
+#![feature(lazy_cell)]
 mod api;
 mod regulation;
 mod save;
